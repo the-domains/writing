@@ -1,6 +1,7 @@
 name: writing
 favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.47561
 cta:
   domain: null
   bucket: null
