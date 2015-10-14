@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: A few tips on how to learn Cascading Style Sheets
-datePublished: '2015-10-13T08:56:52.832Z'
-dateModified: '2015-10-13T08:56:40.285Z'
+datePublished: '2015-10-14T17:08:51.412Z'
+dateModified: '2015-10-13T08:58:46.043Z'
 title: Learning CSS
+sourcePath: _posts/2015-10-13-learning-css.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-13-learning-css.md
-published: true
-_type: Blurb
+url: learning-css/index.html
+_type: Article
 
 ---
 I believe authoring CSS is a lot different than programming. I also believe you can learn a lot from reading about the learnings of great programmers. Try on all the shoes. Throw away the ones that don't fit, and keep the ones that do. If you are looking for some things to read - I have a [reading list][0] that I keep updated with articles that have altered how I think about writing code.
